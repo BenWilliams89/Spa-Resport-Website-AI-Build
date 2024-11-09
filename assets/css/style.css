@@ -16,3 +16,13 @@
     z-index: 1000;
 }
 
+.hero {
+    background: url(../images/hero\ image\ for\ a\ wellness\ website.png);
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+
+
+
