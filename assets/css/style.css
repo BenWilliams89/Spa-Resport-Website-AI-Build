@@ -17,10 +17,19 @@
 }
 
 .hero {
-    background: url(../images/hero\ image\ for\ a\ wellness\ website.png);
+    background: url('../images/hero\ image\ for\ a\ wellness\ website.png') no-repeat center center;
     background-size: cover;
     height: 100vh;
-    color: white;
+    color: #12b2873c;
+}
+
+.hero-heading {
+    font-family: 'Handlee', cursive;
+    color: #075f109d;
+}
+
+.hero-text {
+    color: #3c2a15;
 }
 
 
