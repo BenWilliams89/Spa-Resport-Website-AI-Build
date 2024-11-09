@@ -1,0 +1,16 @@
+.navbar {
+    background-color: white;
+}
+
+.navbar .nav-link {
+    color: black;
+    font-weight: bold;
+}
+
+.navbar .nav-link:hover {
+    color: black;
+}
+
+body{
+    background-color: #f8f9fa;
+}
