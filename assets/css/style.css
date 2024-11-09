@@ -1,16 +1,18 @@
-.navbar {
-    background-color: white;
+.navbar-custom {
+    color: #3B2F2F;
 }
 
-.navbar .nav-link {
-    color: black;
+.navbar-custom .nav-link {
+    color: #3B2F2F;
+}
+
+.navbar-custom .nav-link.active {
     font-weight: bold;
 }
 
-.navbar .nav-link:hover {
-    color: black;
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
-body{
-    background-color: #f8f9fa;
-}
